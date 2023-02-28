@@ -37,5 +37,5 @@ def main(args):
             print(f'{password} was NOT found. Carry on!')
     return 'done!'
 
-if __name__ == '__main__': #only runs if it is the main file, not when imported
+if __name__ == '__main__': 
     sys.exit(main(sys.argv[1:])) #sys.exit in case sth. don't work to bring back to CommandLine
