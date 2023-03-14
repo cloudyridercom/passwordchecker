@@ -7,5 +7,6 @@ Since entering our password in plaintext on a site is not the most secure way, t
 
 The graphic below shows how the process works:
 
-![](https://i.imgur.com/292sBmi.png)
+https://user-images.githubusercontent.com/97125784/225080621-8dacc36c-55a0-4fe3-995e-df27ee331a3a.mp4
+
 
